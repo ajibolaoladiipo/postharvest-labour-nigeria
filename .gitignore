@@ -1,0 +1,13 @@
+# Restricted microdata and derived row-level files
+data/restricted_raw/
+data/private/
+outputs/private/
+phase_ii_descriptive_measurement_audit/
+phase_iii_controlled_descriptive_interpretation/
+phase_ivb_release_clearance/
+config/local_config.R
+*.dta
+*.rds
+*.RData
+.Rhistory
+.DS_Store

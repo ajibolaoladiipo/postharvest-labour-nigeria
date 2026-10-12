@@ -1,0 +1,13 @@
+wave,count,measure
+4,17053,worker_crop_arrangements
+5,19147,worker_crop_arrangements
+4,30096,task_expanded_records
+5,41866,task_expanded_records
+4,6423,unique_identifiable_household_members
+5,7367,unique_identifiable_household_members
+4,4561,external_person_type_crop_arrangements_not_unique_people
+5,4446,external_person_type_crop_arrangements_not_unique_people
+4,506703.3,arrangement_level_unweighted_person_hours
+5,521691,arrangement_level_unweighted_person_hours
+4,945507.1,task_expanded_repeated_person_hours_PROHIBITED
+5,1062463,task_expanded_repeated_person_hours_PROHIBITED

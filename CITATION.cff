@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code and aggregate benchmark package, please cite it using the metadata below."
+title: "Post-Harvest Labour Organisation in Nigerian Farm Households: replication code and aggregate benchmarks"
+type: software
+version: "1.0.0-public-clean"
+authors:
+  - family-names: Oladiipo
+    given-names: Ajibola
+abstract: "Public code and aggregate benchmark materials for descriptive post-harvest labour analysis using GHS-Panel Waves 4 and 5. No microdata or manuscript files are included."

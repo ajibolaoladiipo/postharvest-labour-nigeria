@@ -1,0 +1,25 @@
+paper_title: "Who Performs Post-Harvest Work in Nigerian Farm Households? Gender, Age, Task, and Payment Across Two Survey Waves"
+status: "private design locked before results"
+survey_waves:
+  - 4
+  - 5
+analytic_population: "Household-crop records that enter the post-harvest labour modules, with worker records linked to the contemporaneous household roster and cross-sectional survey weight."
+primary_estimand: "Survey-weighted descriptive shares and intensity of recorded post-harvest labour by worker type, sex, age group, task, payment arrangement, rurality, and survey wave."
+common_task_core:
+  - shelling_or_threshing
+  - drying
+  - cleaning
+  - processing
+wave_5_additional_tasks:
+  - sorting
+  - supervision
+worker_arrangements:
+  - household_member
+  - hired_paid
+  - outside_household_unpaid
+claims_not_supported:
+  - physical post-harvest loss
+  - causal effects of gender norms
+  - causal effects of payment arrangements
+  - individual wages for household-member labour
+privacy_rule: "All raw GHS files, household identifiers, row-level derivatives, model objects, and generated outputs remain private."

@@ -1,0 +1,5 @@
+worker_arrangement,observed_arrangements,unresolved_slots,observed_share,maximum_count_only_share,sensitivity_type
+hired_paid,2798,222,0.16407670204656072,0.17329431342170196,"logical count-only upper bound; no task, worker count, hours, payment, or composition imputed"
+household_member,12492,0,0.7325397290799273,0.7168187295575831,"logical count-only upper bound; no task, worker count, hours, payment, or composition imputed"
+outside_household_unpaid,1763,152,0.103383568873512,0.10988695702071498,"logical count-only upper bound; no task, worker count, hours, payment, or composition imputed"
+all_external,4561,374,0.26746027092007274,0.2831812704424169,"logical count-only upper bound; no task, worker count, hours, payment, or composition imputed"
